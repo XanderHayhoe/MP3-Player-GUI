@@ -1,0 +1,3 @@
+user-config/*
+.env
+.cache
